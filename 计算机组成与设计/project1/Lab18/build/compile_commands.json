@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/Labs/Lab18/build",
+  "command": "/opt/imgtec/catapult-sdk_1.9.1/bin/riscv64-img-elf-gcc -DCPU_FREQ=13000000 -DCUSTOM_UART -DHAS_PRINTF=0 -DNO_SEMIHOSTING=1 -DPERIPH_H=\\\"RVfpgaNexys_periph.h\\\" -DPLATFORM_H=\\\"swerv_csr.h\\\" -DUART -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common/ee_printf -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common/drivers/uart/RVfpga -I/opt/imgtec/catapult-sdk_1.9.1/build/platform/RVfpga -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common/drivers/uart -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common/drivers/psp/api_inc -I/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/common/drivers/bsp -g -O0 -g -march=rv32im_zicsr_zifencei -mabi=ilp32 -o CMakeFiles/test.elf.dir/src/test.S.obj -c /mnt/e/COD_Project1/RVfpga_NexysA7-DDR/Labs/Lab18/src/test.S",
+  "file": "/mnt/e/COD_Project1/RVfpga_NexysA7-DDR/Labs/Lab18/src/test.S",
+  "output": "CMakeFiles/test.elf.dir/src/test.S.obj"
+}
+]
