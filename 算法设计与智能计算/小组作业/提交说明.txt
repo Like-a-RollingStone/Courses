@@ -1,0 +1,12 @@
+提交材料说明
+================
+包含：
+1. tsp_memetic/src：算法核心代码。
+2. tsp_memetic/data/tsplib：实验使用的TSPLIB数据。
+3. tsp_memetic/experiments：复现实验和图表生成脚本。
+4. tsp_memetic/results：实验CSV结果和相关输出。
+5. tsp_memetic/report/figures：最终PPT使用和扩展实验使用的图片。
+6. tsp_memetic/tests：正确性测试。
+7. tsp_memetic/requirements.txt：Python依赖。
+8. reference：参考论文。
+
