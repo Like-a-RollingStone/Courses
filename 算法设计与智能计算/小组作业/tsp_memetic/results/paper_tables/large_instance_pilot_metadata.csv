@@ -1,0 +1,2 @@
+instances,runs,generations,pop_size,ls_step_budget,lk_warm_start_max_improvements,lk_max_improvements,lk_max_depth,lk_candidate_k,lk_backtracking_width,base_seed,workers
+d493,10,8,6,100000,100000,12,3,20,1,20260617,4

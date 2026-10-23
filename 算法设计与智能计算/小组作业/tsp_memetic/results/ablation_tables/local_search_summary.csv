@@ -1,0 +1,4 @@
+strategy,final length,total time,time/gen
+full,7542.000 ± 0.000,11.545,0.057724
+partial,7542.000 ± 0.000,3.687,0.018435
+bounded,7542.000 ± 0.000,11.289,0.056447

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+*.log
+web/
+node_modules/
+.next/
+report/figures/reproduced/
+results/conclusion_exploration/smoke_*.csv
+report/figures/conclusion_exploration/smoke_*.png

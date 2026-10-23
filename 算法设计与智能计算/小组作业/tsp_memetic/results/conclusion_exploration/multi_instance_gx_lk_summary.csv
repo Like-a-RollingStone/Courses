@@ -1,0 +1,17 @@
+instance,dimension,method,runs,generations,pop_size,lk_strength,final_gap_mean_pct,final_gap_sd_pct,runtime_mean_s,source
+ch130,130,DPX + L-K,8,8,8,medium,0.7078559738134206,0.5564476196989397,24.454118699999526,new multi-instance medium L-K run
+ch130,130,GX + L-K,8,8,8,medium,1.1968085106382977,0.3839743637150908,22.5972333624959,new multi-instance medium L-K run
+ch130,130,OX + L-K,8,8,8,medium,1.2888707037643208,0.9227199226075246,27.35569625000062,new multi-instance medium L-K run
+ch130,130,PMX + L-K,8,8,8,medium,1.833060556464812,0.8519177026233107,24.559593674995995,new multi-instance medium L-K run
+d493,493,DPX + L-K,10,8,6,existing_d493_pilot,3.7092166161933604,0.7090760791181865,17.719619429999874,existing large_instance_pilot_summary.csv
+d493,493,GX + L-K,10,8,6,existing_d493_pilot,3.3172390149134334,0.8203644452281971,26.438548760000412,existing large_instance_pilot_summary.csv
+d493,493,OX + L-K,10,8,6,existing_d493_pilot,4.088337809268042,0.6405937531457908,14.791024929999548,existing large_instance_pilot_summary.csv
+d493,493,PMX + L-K,10,8,6,existing_d493_pilot,3.9663447802982685,0.4692487890666004,15.502389779999067,existing large_instance_pilot_summary.csv
+eil101,101,DPX + L-K,8,8,8,medium,1.987281399046105,0.9538950715421304,13.25480045000586,new multi-instance medium L-K run
+eil101,101,GX + L-K,8,8,8,medium,0.794912559618442,0.6691310407747552,13.226011537506565,new multi-instance medium L-K run
+eil101,101,OX + L-K,8,8,8,medium,1.8084260731319555,0.7831862774862128,12.889892525003233,new multi-instance medium L-K run
+eil101,101,PMX + L-K,8,8,8,medium,1.8680445151033387,0.8572007479793604,13.60790282499147,new multi-instance medium L-K run
+eil51,51,DPX + L-K,8,8,8,medium,0.1467136150234742,0.1746534763246115,1.9073512499999197,new multi-instance medium L-K run
+eil51,51,GX + L-K,8,8,8,medium,0.3227699530516432,0.3955441352141331,1.8657324250052625,new multi-instance medium L-K run
+eil51,51,OX + L-K,8,8,8,medium,0.44014084507042256,0.3183574370564642,1.6361007249979593,new multi-instance medium L-K run
+eil51,51,PMX + L-K,8,8,8,medium,0.4401408450704225,0.31835743705646413,1.7412952249942464,new multi-instance medium L-K run

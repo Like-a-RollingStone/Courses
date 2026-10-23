@@ -1,0 +1,2 @@
+initial_length,final_length,improvement,accepted_moves,lk_warm_start_max_improvements,lk_max_improvements,removed_edges,added_edges,time
+7671.000000,6645.000000,1026.000000,38,unbounded,3,39,39,0.055038

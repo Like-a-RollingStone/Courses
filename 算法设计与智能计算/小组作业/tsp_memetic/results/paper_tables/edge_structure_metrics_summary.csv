@@ -1,0 +1,5 @@
+operator,samples,mean_common_preserved,std_common_preserved,mean_common_broken,mean_parent_edge_inheritance_rate,mean_common_edge_preservation_rate,mean_foreign_edges_count,std_foreign_edges_count
+OX,40,82.925000,0.916725,2.075000,0.960000,0.975588,5.200000,1.223698
+PMX,40,76.175000,2.854484,8.825000,0.873077,0.896176,16.500000,5.565461
+DPX,40,85.000000,0.000000,0.000000,0.654808,1.000000,44.875000,0.334932
+GX,40,85.000000,0.000000,0.000000,0.822500,1.000000,23.075000,1.886355

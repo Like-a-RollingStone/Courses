@@ -1,0 +1,2 @@
+instance,runs,generations,pop_size,lk_warm_start_max_improvements,lk_max_improvements,lk_max_depth,lk_candidate_k,lk_backtracking_width,base_seed,local_search_note
+ch130,15,15,8,unbounded,3,3,12,2,20260615,Critical bounded LK regime = full 2-opt warm start + moderately capped variable-depth lin_kernighan; stronger than 2-opt but not strong enough to wash out crossover effects

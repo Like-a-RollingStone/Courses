@@ -1,0 +1,5 @@
+operator,common_edges,common_preserved,common_broken,parent_edge_inheritance_rate,common_edge_preservation_rate,foreign_edges_count
+OX,85,82,3,0.969231,0.964706,4
+PMX,85,82,3,0.923077,0.964706,10
+DPX,85,85,0,0.653846,1.000000,45
+GX,85,85,0,0.830769,1.000000,22
